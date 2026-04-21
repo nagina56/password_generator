@@ -19,7 +19,9 @@ A simple Python-based password generator that creates strong and secure random p
 ```bash
 https://github.com/nagina56/password-generator.git
 
+
+
 ## 📸 Screenshot
 
 ![Password Generator Output]
-(https://raw.githubusercontent.com/nagina56/password_generator/refs/heads/main/Screenshot_password_generator.png)
+https://raw.githubusercontent.com/nagina56/password_generator/refs/heads/main/Screenshot_password_generator.png
